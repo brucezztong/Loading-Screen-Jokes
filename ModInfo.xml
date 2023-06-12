@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-		<Name value="Loading-Screen-Jokes" />
-		<!-- <DisplayName value="Loading Screen Jokes" /> -->
-		<Version value="21.0.002" />
-		<Description value="Adds zombie jokes to the loading screen." />
-		<Author value="ZZTong" />
-        <Website value="None" />
-        <!-- Dependencies: None -->
-	</ModInfo>
+    <Name value="Loading-Screen-Jokes" />
+    <DisplayName value="Loading Screen Jokes" />
+    <Version value="21.0.002" />
+    <Description value="Adds zombie jokes to the loading screen." />
+    <Author value="ZZTong" />
+    <Website value="None" />
+    <!-- Dependencies: None -->
 </xml>
